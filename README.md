@@ -1,7 +1,7 @@
 # The Role of Amenities in Evaluating House Prices
 ## A Case of Metropolitan Cities in India
 
-## About this notebook:
+### About this notebook:
 
 This notebook is an assignment for UCL CASA module Data Science for Spatial Systems (CASA0006).  
 
